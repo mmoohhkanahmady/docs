@@ -47,7 +47,7 @@
     "html-entities": "^1.2.1",
     "imurmurhash": "^0.1.4",
     "js-cookie": "^3.0.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "liquidjs": "^9.22.1",
     "lodash": "^4.17.21",
     "lodash-es": "^4.17.21",
