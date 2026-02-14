@@ -29,7 +29,7 @@
     "csurf": "^1.11.0",
     "dayjs": "^1.10.6",
     "dotenv": "^10.0.0",
-    "express": "^4.17.1",
+    "express": "^4.22.0",
     "express-rate-limit": "^5.3.0",
     "express-timeout-handler": "^2.2.2",
     "flat": "^5.0.2",
@@ -174,7 +174,7 @@
   "license": "(MIT AND CC-BY-4.0)",
   "name": "docs.github.com",
   "optionalDependencies": {
-    "jest-puppeteer": "^5.0.4",
+    "jest-puppeteer": "^7.0.0",
     "jimp": "^0.16.1",
     "pa11y-ci": "^2.4.2",
     "puppeteer": "^9.1.1",
